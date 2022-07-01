@@ -1,0 +1,19 @@
+{
+  "name": "@milosglickon/test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hp_G8ND3Joj31zp7Au2DF9RumSyxid5hn3weuMi@github.com/milosglickon/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milosglickon/test-package/issues"
+  },
+  "homepage": "https://github.com/milosglickon/test-package#readme"
+}
