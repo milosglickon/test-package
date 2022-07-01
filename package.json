@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/milosglickon/test-package/issues"
   },
-  "homepage": "https://github.com/milosglickon/test-package#readme"
+  "homepage": "https://github.com/milosglickon/test-package#readme",
+  "publishConfig": {
+    "@milosglickon:registry": "https://npm.pkg.github.com"
+  }
 }
